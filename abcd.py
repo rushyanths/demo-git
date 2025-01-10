@@ -1,2 +1,1 @@
-print("Hello world")
-print("bhosadi")
+print("Hello wo
